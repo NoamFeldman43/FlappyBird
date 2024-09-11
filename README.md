@@ -17,3 +17,5 @@ assets: תיקייה המכילה את משאבי המשחק כמו תמונות
 כאשר הציפור מתנגשת בצינור או יוצאת מחוץ לגבולות הלוח, המשחק מסתיים ומוצגת ההודעה "GAME OVER".
 
 בהצלחה🐦
+
+![Screenshot_2](https://github.com/user-attachments/assets/472bcfe1-6c24-42e1-8ca8-f3de61812552)
